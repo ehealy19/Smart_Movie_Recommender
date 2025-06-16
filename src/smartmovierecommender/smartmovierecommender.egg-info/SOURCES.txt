@@ -1,0 +1,14 @@
+setup.py
+calculation/__init__.py
+calculation/cosine_sim.py
+collector/__init__.py
+collector/datacollect.py
+collector/datascraper.py
+smartmovierecommender.egg-info/PKG-INFO
+smartmovierecommender.egg-info/SOURCES.txt
+smartmovierecommender.egg-info/dependency_links.txt
+smartmovierecommender.egg-info/top_level.txt
+transformer/__init__.py
+transformer/gemini_query.py
+utils/__init__.py
+utils/combining_data.py

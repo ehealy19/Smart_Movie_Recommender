@@ -1,0 +1,9 @@
+2024-12-17 20:42:21,078 - INFO - Starting to score Main file
+2024-12-17 20:42:21,135 - INFO - 
+Top Recommendations:
+2024-12-17 20:42:21,135 - INFO - Call Me by Your Name (Similarity: 0.99)
+2024-12-17 20:42:21,136 - INFO - Brokeback Mountain (Similarity: 0.98)
+2024-12-17 20:42:21,136 - INFO - Malcolm & Marie (Similarity: 0.98)
+2024-12-17 20:42:21,136 - INFO - Carol (Similarity: 0.98)
+2024-12-17 20:42:21,136 - INFO - Breaking the Waves (Similarity: 0.98)
+2024-12-17 20:42:21,136 - INFO - Scoring is completed
